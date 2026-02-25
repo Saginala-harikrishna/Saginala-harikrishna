@@ -236,24 +236,9 @@ Monitoring & Optimization
 <!-- Decorative separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<br>
-
-<!-- ================================================== -->
-<!--                  CONNECT                           -->
-<!-- ================================================== -->
-
-<h2 align="center">📫 Connect With Me</h2>
 
 
 
-<br>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <br>
-  <sub><i>“Clarity before speed, systems over syntax.”</i></sub>
-</div>
 
 <!-- ================================================== -->
 <!--                     END                            -->
